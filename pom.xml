@@ -8,14 +8,14 @@
     <packaging>jar</packaging>
     <name>websecurity-token</name>
     <description>token based web security for spring boot</description>
-
+    <url>https://github.com/shamithachandrasena/websecurity-token</url>
     <developers>
     <developer>
         <id>shamitha</id>
         <name>Shamitha Chandrasena</name>
         <email>shamithachandrasena@gmail.com</email>
     </developer>
-</developers>
+    </developers>
 
 
 
